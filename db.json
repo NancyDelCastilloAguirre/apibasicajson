@@ -1,0 +1,52 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido_paterno": "Garcia",
+            "apellido_materno": "Flores",
+            "nombre": "Carlos",
+            "username" : "CG",
+            "password" : "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id":2,
+            "apellido_paterno": "Flores",
+            "apellido_materno": "Montero",
+            "nombre": "Alan",
+            "username" : "AlanFL",
+            "password" : "cf7d7a62a999fff5a763f0a300a08368"
+        },
+        {
+            "id":3,
+            "apellido_paterno": "Cornejo",
+            "apellido_materno": "Morales",
+            "nombre": "Paola",
+            "username" : "PaolaCM",
+            "password" : "8d7e09475e7341a27509518162ac034f"
+        },
+        {
+            "id":4,
+            "apellido_paterno": "Cabrera",
+            "apellido_materno": "Aguirre",
+            "nombre": "Antonio Zabdiel",
+            "username" : "AntonioZCA",
+            "password" : "ded7de1135bd3ffe8e2a5f0c6b84875b"
+        },
+        {
+            "id":5,
+            "apellido_paterno": "Del Castillo",
+            "apellido_materno": "Aguirre",
+            "nombre": "Nancy Ahanti",
+            "username" : "NancyADCA",
+            "password" : "3b41c7237c12df0704aa8e561da9ec05"
+        },
+        {
+            "id":6,
+            "apellido_paterno": "Delgado",
+            "apellido_materno": "Lucero",
+            "nombre": "Cristian Izack",
+            "username" : "CristianIDL",
+            "password" : "cd380522f20fb2150abf24f0ba9f2606"
+        }
+    ]
+}
